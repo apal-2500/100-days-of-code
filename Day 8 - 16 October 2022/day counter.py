@@ -1,8 +1,8 @@
 # Write your code here :-)
 import datetime
 
-xmas = datetime.date(2022, 12, 25) - datetime.date.today()
-print(xmas)
+italia = datetime.date(2023, 4, 10) - datetime.date.today()
+print(italia)
 
-months = xmas / 30
+months = italia / 30
 print("Months: ", months)
